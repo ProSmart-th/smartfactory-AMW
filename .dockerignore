@@ -1,0 +1,7 @@
+smartfactory.exe
+*.bat
+*.ps1
+.git
+.gitignore
+README.md
+

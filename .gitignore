@@ -1,0 +1,10 @@
+# Binaries
+smartfactory.exe
+smartfactory
+server
+*.exe
+
+# Logs & OS files
+*.log
+.DS_Store
+Thumbs.db

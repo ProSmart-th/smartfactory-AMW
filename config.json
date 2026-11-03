@@ -1,0 +1,73 @@
+{
+  "defaultSpreadsheetId": "1I4Qw1hPol8gGLZbSZS3hVRpsG6o--3f2iswfXJh1t5g",
+  "electricityRate": 5,
+  "machines": {
+    "FH004": {
+      "id": "FH004",
+      "name": "SmartFactory_FH004",
+      "sheetUrl": "https://docs.google.com/spreadsheets/d/1LrXPrW2tJPs-VpEhnAFiaveFf2LT0Dn8MaIHlEwtBok/edit?usp=sharing",
+      "spreadsheetId": "1LrXPrW2tJPs-VpEhnAFiaveFf2LT0Dn8MaIHlEwtBok",
+      "sheetTab": "DataLogger",
+      "cycleTimeSec": 2,
+      "phaseMultiplier": 3
+    },
+    "FH005": {
+      "id": "FH005",
+      "name": "SmartFactory_FH005",
+      "sheetUrl": "https://docs.google.com/spreadsheets/d/10ogEdzQIkzVE4ehXh_1W38r-oIGx07ilkubUXSpYA88/edit?usp=sharing",
+      "spreadsheetId": "10ogEdzQIkzVE4ehXh_1W38r-oIGx07ilkubUXSpYA88",
+      "sheetTab": "DataLogger",
+      "cycleTimeSec": 2,
+      "phaseMultiplier": 3
+    },
+    "HC003": {
+      "id": "HC003",
+      "name": "SmartFactory_HC003",
+      "sheetUrl": "https://docs.google.com/spreadsheets/d/1JoCe_xbEy185Ge03oiaUr51e1ntjp-ic8eQKJsRulL8/edit?usp=sharing",
+      "spreadsheetId": "1JoCe_xbEy185Ge03oiaUr51e1ntjp-ic8eQKJsRulL8",
+      "sheetTab": "DataLogger",
+      "cycleTimeSec": 4.92,
+      "phaseMultiplier": 3
+    },
+    "HC004": {
+      "id": "HC004",
+      "name": "SmartFactory_HC004",
+      "sheetUrl": "https://docs.google.com/spreadsheets/d/1VKMMOe-wxora5gM6sbmvbqswcwo7E7HVKS7LeI1sq3I/edit?usp=sharing",
+      "spreadsheetId": "1VKMMOe-wxora5gM6sbmvbqswcwo7E7HVKS7LeI1sq3I",
+      "sheetTab": "DataLogger",
+      "cycleTimeSec": 4.92,
+      "phaseMultiplier": 3
+    },
+    "LS001": {
+      "id": "LS001",
+      "name": "SmartFactory_LS001",
+      "sheetUrl": "https://docs.google.com/spreadsheets/d/1Sb3qWEXNHvYupCba4BevZYZU6XcIPXfPHqmtdaokTzs/edit?usp=sharing",
+      "spreadsheetId": "1Sb3qWEXNHvYupCba4BevZYZU6XcIPXfPHqmtdaokTzs",
+      "sheetTab": "DataLogger",
+      "phaseMultiplier": 3
+    },
+    "LS002": {
+      "id": "LS002",
+      "name": "SmartFactory_LS002",
+      "sheetUrl": "https://docs.google.com/spreadsheets/d/1OG5BMThiDq6AtPwCnE5gkEjDYquaLsE-ljU1o20LKW0/edit?usp=sharing",
+      "spreadsheetId": "1OG5BMThiDq6AtPwCnE5gkEjDYquaLsE-ljU1o20LKW0",
+      "sheetTab": "DataLogger",
+      "phaseMultiplier": 3
+    },
+    "TP003": {
+      "id": "TP003",
+      "name": "SmartFactory_TP003",
+      "sheetUrl": "https://docs.google.com/spreadsheets/d/1wJq3prGvpKi07X-I4kE_9l6OKIcaUXETyGo8ituhVL4/edit?usp=sharing",
+      "spreadsheetId": "1wJq3prGvpKi07X-I4kE_9l6OKIcaUXETyGo8ituhVL4",
+      "sheetTab": "DataLogger",
+      "phaseMultiplier": 3
+    }
+  },
+  "users": {
+    "admin": {
+      "username": "admin",
+      "password": "admin",
+      "role": "ผู้ดูแลระบบ (Administrator)"
+    }
+  }
+}
