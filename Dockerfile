@@ -10,7 +10,8 @@ ENV TZ=Asia/Bangkok
 COPY smartfactory /app/smartfactory
 RUN chmod +x /app/smartfactory
 
-# Copy templates, static files, and configuration
+# Create folders and copy templates, static files, and configuration
+RUN mkdir -p /app/static /app/templates
 COPY templates /app/templates
 COPY static /app/static
 COPY config.json /app/config.json
